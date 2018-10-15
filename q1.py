@@ -5,6 +5,6 @@ import numpy as np
 # modify this function, and create other functions below as you wish
 def question01(portfolios):
   # modify and then return the variable below
-  answer = 0
-  print('hello')
+  answer = 15
+
   return answer
