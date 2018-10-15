@@ -4,6 +4,7 @@ import numpy as np
 
 # modify this function, and create other functions below as you wish
 def question01(portfolios):
+  answer = 0
   # need to optimise lots, dont go over same numbers etc.
   for p1 in portfolios:
         for p2 in portfolios:
