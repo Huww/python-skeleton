@@ -6,4 +6,5 @@ import numpy as np
 def question01(portfolios):
   # modify and then return the variable below
   answer = 0
+  #this is cool
   return answer
